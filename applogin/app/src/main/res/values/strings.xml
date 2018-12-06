@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">applogin</string>
+    <string name="Sign">Sign Out</string>
+    <string name="facebook_application_id">331497064099605</string>
+    <string name="fb_login_protocol_scheme">fb331497064099605</string>
+    <string name="nav_one">One</string>
+    <string name="nav_two">Two</string>
+    <string name="nav_three">Three</string>
+    <string name="nav_five">Five</string>
+    <string name="nav_four">Four</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment1</string>
+    <string name="hello_blank_fragment2">Hello blank fragment2</string>
+    <string name="hello_blank_fragment3">Hello blank fragment3</string>
+    <string name="hello_blank_fragment4">Hello blank fragment4</string>
+    <string name="hello_blank_fragment5">Hello blank fragment5</string>
+
+
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="random">#339900</color>
+    <color name="white">#D81B60</color>
+    <color name="whitetrans">#339900</color>
+    <color name="Yellow">#FFFF00</color>
+    <color name="LavenderBlush">#FFF0F5</color>
+
+</resources>
